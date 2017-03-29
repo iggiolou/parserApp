@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Airplane>
+    <id>1</id>
+    <Name>Boeing747</Name>
+    <Type>Cargo</Type>
+    <MaxSpeed>988</MaxSpeed>
+    <Capacity>412.8</Capacity>
+    <Length>70</Length>
+</Airplane>

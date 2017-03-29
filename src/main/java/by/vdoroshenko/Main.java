@@ -18,7 +18,7 @@ import java.io.IOException;
 
 public class Main {
 
-    public static final String FILE_PATH = "AircraftList.xml";
+    private static final String FILE_PATH = "main/resources/AircraftList.xml";
 
     public static void main(String[] args) {
         while (true) {
